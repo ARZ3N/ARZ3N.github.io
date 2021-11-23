@@ -1,2 +1,3 @@
 # Aniruddha Bhattacharjee
-## books I have read.
+## Hi, here is a page about my me and interests and stuff that I find interesting.
+
