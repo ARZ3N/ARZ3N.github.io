@@ -2,7 +2,7 @@
  I am a electrical engineer who is interested in Control systems, Robotics and Aerospace.
  Here is the list of resources to explore for learning about same.
  
-![sci-fi-city-pixelart](/assets/media/sci-fi-pixel1.gif)
+![sci-fi-city-pixelart](/assets/media/sci-fi-pixel1.gif){ width=50% }
 
 ## List of Books 
 1. Nonlinear Systems
