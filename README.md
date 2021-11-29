@@ -1,4 +1,5 @@
 # Aniruddha Bhattacharjee
+<<<<<<< HEAD
 
 ## Research Interests
 - **Robotics**: Biomimetic and bio-inspired robotics, coordinated control of robotic swarm, haptics and bionic prosthetics
@@ -20,4 +21,9 @@
 
 
 
+
+
+
+ 
+![sci-fi-city-pixelart](/assets/media/sci-fi-pixel1.gif)
 
