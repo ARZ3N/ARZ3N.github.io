@@ -4,16 +4,16 @@
 - **Robotics**: Biomimetic and bio-inspired robotics, coordinated control of robotic swarm, haptics and bionic prosthetics
 - **Control**: Computing and hardware for control applications, coordinated control of multi-agent systems, optimization and communication for control
 - **Dynamical Systems**: Nonlinear systems and chaos
-
+- **Embedded**: Real-time systems, Cyber-physical systems
 ## Contents
 - [Projects](#projects)
 - [Student Team Projects](#student-team-projects)
-
+- [Ongoing Projects](#ongoing-projects)
 
 ## Projects
 
 #### Final semester Major Project (Undergraduate thesis)
-- **_Human Arm Motion Capture Using IMU Sensors_**
+- ### **_Human Arm Motion Capture Using IMU Sensors_**
   - Motivation: To develop a computationally cheaper alternative to computer vision based human body motion tracking technology, by utilising IMU sensors. Develop something which can also be used as a means to further advancements in prosthesis control and human-computer interaction.
   - Methodology:
     - Place IMU sensors (accelerometer + gyroscope + magnetometers) on each segment of the human arm (upper arm, forearm & hand). 
@@ -24,7 +24,7 @@
 ![Concept1](/assets/media/concept1.png)     ![layout1](/assets/media/layout1.png)
 
 #### 7th Semester Research Project
-- **_Fractal Analysis of Electric Streamers_**
+- ### **_Fractal Analysis of Electric Streamers_**
   - Motivation: To better understand the dynamics of an electric streamer occurring during dielectric medium breakdown or natural lightning, in order to assess the amount of charge involved and determine ways to minimize damage to the electrical equipment involved.
   - Highlights:
     - Determination factors affecting streamer pattern geometry in a high voltage electric discharge experimental setup with a liquid dielectric medium. 
@@ -33,7 +33,7 @@
 
 
 #### 5th & 6th Semester Project
-- **_Flight Control System for a Quadrotor Drone_**
+- ### **_Flight Control System for a Quadrotor Drone_**
   - Motivation: To develop an intuitive understanding of the mathematics and programming involved in designing control systems for a quadrotor drone.
   - Highlights:
     - Learned about the dynamics and developed free-body diagrams of the drone to form transfer functions relating orientation angles with forces.
@@ -44,7 +44,7 @@
 
 
 #### 4th Semester Seminar
-- **_Python for Electrical Engineering: 3D visualization of electric and magnetic fields due to charged objects or current elements_**
+- ### **_Python for Electrical Engineering: 3D visualization of electric and magnetic fields due to charged objects or current elements_**
   - Motivation: To develop interactive 3D plots of electric & magnetic fields due to various geometries of charges objects of current elements to aid learning in course- EE4xx Engineering Electromagnetics.
   - Highlights:
     - Wrote Python scripts for different plotting electric fields of charged objects with different shapes (Sphere, infinite plane, point charges, etc.)
@@ -53,7 +53,7 @@
 ## Student Team Projects
 
 #### Nirma University _AUVSI - SUAS_ Team
-- **_Design of a Two-wheeled UGV for payload delivery to designated drop zone_**
+- ### **_Design of a Two-wheeled UGV for payload delivery to designated drop zone_**
   - Objective: One of the objectives of the SUAS competition is to airdrop a UGV (from the primary UAV), to deliver a payload (usually a 250ml bottle), to a designated location which is different from the airdrop point. Thus, a UGV capable of surviving uncertainties and rough terrain had to be developed. The design should also focus on how to avoid the possibility of the UGV toppling while landing which can render it immobile.
   - Highlights: 
     - Investigated a design similar to NASA JPL’s PUFFER Bot.
@@ -62,7 +62,7 @@
     -	Worked on interfacing low power RF-communication module to communicate with the aerial UAV.
 
 #### Nirma University **_S.A.E. E-BAJA_** Team
-- **_Development of Maintenance Probe for Testing & Evaluating the Mechanical Integrity of an Electric All-Terrain Vehicle (ATV) Wiring Harness_**
+- ### **_Development of Maintenance Probe for Testing & Evaluating the Mechanical Integrity of an Electric All-Terrain Vehicle (ATV) Wiring Harness_**
   - Objective: The Electric-ATV would be subjected to extreme terrain, thereby requiring the low-voltage vehicle control wiring harness, to be tightly secured and monitored for disconnection faults. Thus, the development of an electronic probe, which can connect to a port on the vehicle, in order to assess the mechanical integrity of the wiring harness.
   - Highlights:
     - The concept is based on sending and receiving electrical signals through the said wiring harness, while the ATV is not energized.
@@ -70,7 +70,13 @@
     - Integrated an LCD display in the hand-held inspection device, along with Bluetooth enabled telemetry for sending fault related data to a phone.
     - Project based on Arduino Uno (Atmega 328pu) and the HC-05 Bluetooth module 
 
+## Ongoing Projects
 
+- ### **Chaotic Cloak**
+Using Choas to Cloak information: A Python implementation of a chaotic file encyption system.
+
+- ### **t36 Workbench**
+C based CLI and a set of scripts to work comfortably with the Teensy 3.6 development board.
 
 
 
