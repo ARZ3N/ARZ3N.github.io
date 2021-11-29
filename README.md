@@ -5,6 +5,11 @@
 - **Control**: Computing and hardware for control applications, coordinated control of multi-agent systems, optimization and communication for control
 - **Dynamical Systems**: Nonlinear systems and chaos
 
+## Contents
+- [Projects](#projects)
+- [Student Team Projects](#student-team-projects)
+
+
 ## Projects
 
 #### Final semester Major Project (Undergraduate thesis)
@@ -16,7 +21,7 @@
     - Use a quaternion based sensor fusion technique to estimate orientation of each segment individually. Rotate each segment’s quaternion using the rotation quaternion calculated for the previous segment. (Rotation quaternion calculated from upper arm sensor data used to reposition coordinate system of forearm)
     - Develop embedded firmware for Arm cortex-m4 based device for sensor interface and communication. Develop a python based 3D render of the human arm for visualization.
 
-![Concept1](/assets/media/concept1.png)  ![layout1](/assets/media/layout1.png)
+![Concept1](/assets/media/concept1.png)     ![layout1](/assets/media/layout1.png)
 
 #### 7th Semester Research Project
 - **_Fractal Analysis of Electric Streamers_**
