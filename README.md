@@ -73,6 +73,10 @@
     - Integrated an LCD display in the hand-held inspection device, along with Bluetooth enabled telemetry for sending fault related data to a phone.
     - Project based on Arduino Uno (Atmega 328pu) and the HC-05 Bluetooth module 
 
+## Publications
+
+- ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
+
 ## Ongoing Projects
 
 - ### **Chaotic Cloak**
