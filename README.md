@@ -98,3 +98,4 @@ C based CLI and a set of scripts to work comfortably with the Teensy 3.6 develop
  
 ![sci-fi-city-pixelart](/assets/media/sci-fi-pixel1.gif)
 
+##### Great news! You have scrolled to the bottom, and have found an Easter Egg! Thank You! ^
