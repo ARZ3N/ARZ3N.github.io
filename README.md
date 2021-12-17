@@ -58,9 +58,9 @@
 
 #### Nirma University _AUVSI - SUAS_ Team
 - ### **_Design of a Two-wheeled UGV for payload delivery to designated drop zone_**
-  - Objective: One of the objectives of the SUAS competition is to airdrop a UGV (from the primary UAV), to deliver a payload (usually a 250ml bottle), to a designated location which is different from the airdrop point. Thus, a UGV capable of surviving uncertainties and rough terrain had to be developed. The design should also focus on how to avoid the possibility of the UGV toppling while landing which can render it immobile.
+  - Objective: One of the objectives of the SUAS competition is to airdrop a UGV (from the primary UAV), to deliver a payload (usually a 250ml bottle), to a designated location which is different from the airdrop point. Thus, a UGV capable of surviving uncertainties and rough terrain had to be developed. The design should also focus on how to avoid the possibility of the UGV toppling while landing, which may render it immobile.
   - Highlights: 
-    - Investigated a design similar to NASA JPL’s PUFFER Bot.
+    - Investigated a design similar to NASA JPL’s PUFFER Bot, a differntial drive robot with a supporting tail.
     -	Worked on developing the control systems for steering, position change, and motion, based on data from GPS, proximity and IMU sensors.
     -	Studied various wheel geometry to aid movement in rock/gravel and sandy terrain.
     -	Worked on interfacing low power RF-communication module to communicate with the aerial UAV.
