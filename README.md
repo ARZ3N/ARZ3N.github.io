@@ -11,6 +11,7 @@
 
 - [Projects](#projects)
 - [Student Team Projects](#student-team-projects)
+- [Publications](#publications)
 - [Ongoing Projects](#ongoing-projects)
 
 ## Projects
