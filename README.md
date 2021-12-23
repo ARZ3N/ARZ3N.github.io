@@ -84,8 +84,8 @@
 - ### **Chaotic Cloak**
 Using Choas to Cloak information: A Python implementation of a chaotic file encyption system.
 
-- ### **t36 Workbench**
-C based CLI and a set of scripts to work comfortably with the Teensy 3.6 development board.
+- ### **Integration of Real-time kernel with Quadcoptor control systems**
+Developing a custom RTOS kernel for real-time control of a quadrotor drone
 
 
 
