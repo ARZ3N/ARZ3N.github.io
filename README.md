@@ -85,7 +85,8 @@
 Using Choas to Cloak information: A Python implementation of a chaotic file encyption system.
 
 - ### **Integration of Real-time kernel with Quadcoptor control systems**
-Developing a custom RTOS kernel for real-time control of a quadrotor drone
+  - Developing a custom RTOS kernel
+  - Integration with quadcoptor control system
 
 
 
