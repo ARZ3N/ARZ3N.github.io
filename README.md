@@ -26,9 +26,9 @@
     - Use a quaternion based sensor fusion technique to estimate orientation of each segment individually. Rotate each segment’s quaternion using the rotation quaternion calculated for the previous segment. (Rotation quaternion calculated from upper arm sensor data used to reposition coordinate system of forearm)
     - Develop embedded firmware for Arm cortex-m4 based device for sensor interface and communication. Develop a python based 3D render of the human arm for visualization.
 
-     ![Concept1](/assets/media/concept1.png)     ![layout1](/assets/media/layout1.png)
+     ![Concept1](/assets/media/concept1.png)  ![layout1](/assets/media/layout1.png)
 
-      Development Code Source: [imu-arm-motion-capture](https://github.com/ARZ3N/imu-arm-motion-capture)
+      Development Code Source: [imu-arm-motion-capture--GitHub](https://github.com/ARZ3N/imu-arm-motion-capture)
       
 
 #### 7th Semester Research Project
