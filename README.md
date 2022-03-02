@@ -103,4 +103,4 @@ Using Choas to Cloak information: A Python implementation of a chaotic file ency
  
 ![sci-fi-city-pixelart](/assets/media/sci-fi-pixel1.gif)
 
-##### Great news! You have scrolled to the bottom, and have found an Easter Egg! Thank You! ^
+##### Thank You! ^
