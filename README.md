@@ -40,7 +40,7 @@
     - Worked on developing a mathematical model of the electric streamers, assuming the system to be nonlinear due to the coupling of electromagnetic forces due to charge build up and travelling charged particles.
 
 
-#### 5th & 6th Semester Project
+#### UG Mini Project
 - ### **_Flight Control System for a Quadrotor Drone_**
   - Motivation: To develop an intuitive understanding of the mathematics and programming involved in designing control systems for a quadrotor drone.
   - Highlights:
@@ -84,12 +84,10 @@
 
 ## Ongoing Projects
 
-- ### **Chaotic Cloak**
-Using Choas to Cloak information: A Python implementation of a chaotic file encyption system.
+- ### **Estimating Arifoil Lift Coefficients using Neural Netowrks**
+Using Neural Netowrks to learn the exact function relating an airfoil shape with its lift coefficient for a set Angle of Attack and Mach number.
 
-- ### **Integration of Real-time kernel with Quadcoptor control systems**
-  - Developing a custom RTOS kernel
-  - Integration with quadcoptor control system
+- ### **Development of Custom Electronic Speed Controller for drones**
 
 
 
