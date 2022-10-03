@@ -23,7 +23,7 @@
   - Methodology:
     - Place IMU sensors (accelerometer + gyroscope + magnetometers) on each segment of the human arm (upper arm, forearm & hand). 
     - Develop necessary mounts and embedded electronics to place and interface sensors on the arm.
-    - Use a quaternion based sensor fusion technique to estimate orientation of each segment individually. Rotate each segment’s quaternion using the rotation quaternion calculated for the previous segment. (Rotation quaternion calculated from upper arm sensor data used to reposition coordinate system of forearm)
+    - Use a quaternion based sensor fusion technique to estimate orientation of each segment individually. Rotate each segment’s quaternion using the rotation quaternion calculated for the previous segment. (Rotation quaternion calculated from upper arm sensor data used to reposition coordinate system of forearm).
     - Develop embedded firmware for Arm cortex-m4 based device for sensor interface and communication. Develop a python based 3D render of the human arm for visualization.
 
      ![Concept1](/assets/media/concept1.png)  ![layout1](/assets/media/layout1.png)
@@ -36,7 +36,7 @@
   - Motivation: To better understand the dynamics of an electric streamer occurring during dielectric medium breakdown or natural lightning, in order to assess the amount of charge involved and determine ways to minimize damage to the electrical equipment involved.
   - Highlights:
     - Determination factors affecting streamer pattern geometry in a high voltage electric discharge experimental setup with a liquid dielectric medium. 
-    - Calculation of fractal dimensions using box-counting method, for different voltage magnitudes and polarity
+    - Calculation of fractal dimensions using box-counting method, for different voltage magnitudes and polarity.
     - Worked on developing a mathematical model of the electric streamers, assuming the system to be nonlinear due to the coupling of electromagnetic forces due to charge build up and travelling charged particles.
 
 
@@ -44,18 +44,18 @@
 - ### **_Flight Control System for a Quadrotor Drone_**
   - Motivation: To develop an intuitive understanding of the mathematics and programming involved in designing control systems for a quadrotor drone.
   - Highlights:
-    - Learned about the dynamics and developed free-body diagrams of the drone to form transfer functions relating orientation angles with forces.
-    - Worked on orientation estimation using quaternions and complementary filter, from IMU data
+    - Learned about the dynamics and developed free-body diagrams of the drone to form feedback system for motor speed control.
+    - Worked on orientation estimation using quaternions and complementary filter, from IMU data.
     - Developed a simple PI based attitude control and PID based altitude control algorithm, manually selecting gains for each control branch.
-    - Programmed an Arm cortex m4 device (Teensy 3.6 with bare-metal firmware) for sensor interface, orientation estimation & control, and ESC calibration.
-    - Tested on a X-Frame 14-inch Quadcoptor frame
+    - Programmed an Arm cortex m4 (STM32F411x) for sensor interface, orientation estimation & control, and ESC calibration.
+    - Tested on a X-Frame 14-inch Quadcoptor frame.
 
 
 #### 4th Semester Seminar
 - ### **_Python for Electrical Engineering: 3D visualization of electric and magnetic fields due to charged objects or current elements_**
   - Motivation: To develop interactive 3D plots of electric & magnetic fields due to various geometries of charges objects of current elements to aid learning in course- EE4xx Engineering Electromagnetics.
   - Highlights:
-    - Wrote Python scripts for different plotting electric fields of charged objects with different shapes (Sphere, infinite plane, point charges, etc.)
+    - Developed Python scripts for different charge distributions and standard charged objects such as Sphere, infinite plane, point charges and custom charge distributions also.
     - Used Python modules such as Numpy and Matplotlib for Finite-element Analysis based calculations and 3D plotting.
 
 ## Student Team Projects
@@ -87,7 +87,7 @@
 - ### **Estimating Arifoil Lift Coefficients using Neural Netowrks**
 Using Neural Netowrks to learn the exact function relating an airfoil shape with its lift coefficient for a set Angle of Attack and Mach number.
 
-- ### **Development of Custom Electronic Speed Controller for drones**
+- ### **Development of Custom Electronic Speed Controller for drone concept for increased reachability in land and air based exploration**
 
 
 
