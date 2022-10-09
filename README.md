@@ -2,11 +2,10 @@
 
 ## Research Interests
 
-- **Robotics**: Biomimetic and bio-inspired robotics, coordinated control of robotic swarm, human-machine interaction
-- **Control**: Computing and hardware for control applications, coordinated control of multi-agent systems, optimization
-- **Aerospace**: Controls, formation flight, UAV, space applications
-- **Dynamical Systems**: Nonlinear systems and chaos
-- **Embedded**: Real-time systems, Cyber-physical systems
+- **Robotics**: Biomimetic and bio-inspired robotics, coordinated control of multi-agent systems, human-machine interaction
+- **Control**: Computing and hardware for control applications, optimization, Control theory
+- **Embedded**: Real-time Operating Systems (RTOS), Sensor Systems
+- **Aerospace**: Dynamics and Control, flight control systems
 
 ## Contents
 
