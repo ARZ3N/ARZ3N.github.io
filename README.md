@@ -21,12 +21,11 @@
   - Motivation: To develop a computationally cheaper alternative to computer vision based human body motion tracking technology, by utilising IMU sensors. Develop something which can also be used as a means to further advancements in prosthesis control and human-computer interaction.
   - Methodology:
     - Sensor interface and Signal processing:
-      Sensor used: Invensense MPU 9250 Accelerometer + Gyroscope + Magnetometer
-      Implemented FIR/Moving Average Filter for removing noise due to sudden shifts in motion over a short period of time.
-      Used Quaternion based orientation estimation. Calculated rotation quaternion from sensor data by using a complementary filter.
-      I2C communication channel between sensor and microcontroller.
-    - Develop necessary mounts and embedded electronics to place and interface sensors on the arm.
+     + Sensor used: Invensense MPU 9250 Accelerometer + Gyroscope + Magnetometer
+     + Implemented FIR/Moving Average Filter for removing noise due to sudden shifts in motion over a short period of time.
+     + I2C communication channel between sensor and microcontroller.
     - Use a quaternion based sensor fusion technique to estimate orientation of each segment individually. Rotate each segment’s quaternion using the rotation quaternion calculated for the previous segment. (Rotation quaternion calculated from upper arm sensor data used to reposition coordinate system of forearm).
+    - Develop necessary mounts and embedded electronics to place and interface sensors on the arm.
     - Develop embedded firmware for Arm cortex-m4 based device for sensor interface and communication. Develop a python based 3D render of the human arm for visualization.
 
      ![Concept1](/assets/media/concept1.png)  ![layout1](/assets/media/layout1.png)
