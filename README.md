@@ -89,8 +89,8 @@
 - ### **Estimating Arifoil Lift Coefficients using Neural Netowrks**
 Using Neural Netowrks to learn the exact function relating an airfoil shape with its lift coefficient for a set Angle of Attack and Mach number.
 
-- ### **Development of Custom Electronic Speed Controller for drone concept for increased reachability in land and air based exploration**
-
+- ### **Using Python for Hardware-In-Loop (HIL) Simulations of Embedded Control Systems**
+Learning Automation and simulation workflows to design Python System modelling library for HIL simulations that can work with embedded targets.
 
 
 
