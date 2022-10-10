@@ -106,6 +106,6 @@ Learning Automation and simulation workflows to design Python System modelling l
 
 
  
-![sci-fi-city-pixelart](/assets/media/sci-fi-pixel1.gif)
+![urban_sprawl_dusk](/assets/media/giphy_dusk_japan_city.gif)
 
 ##### Thank You! ^
