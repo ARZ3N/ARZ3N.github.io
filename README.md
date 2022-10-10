@@ -38,7 +38,7 @@
   - Hands-on learning of the POSIX "pthreads.h" library and how to create processes andchild-process management.
   - Developed a understanding of the shell program structures including input parsing, validation, execution blocks, etc.
 
-      Project Source: [Cshell](https:://github.com/ARZ3N/Cshell)
+      Project Source: [Cshell -- GitHub](https:://github.com/ARZ3N/Cshell)
       
 #### 7th Semester Research Project
 - ### **_Fractal Analysis of Electric Streamers_**
