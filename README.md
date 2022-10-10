@@ -38,6 +38,8 @@
   - Hands-on learning of the POSIX "pthreads.h" library and how to create processes andchild-process management.
   - Developed a understanding of the shell program structures including input parsing, validation, execution blocks, etc.
 
+      Project Source: [Cshell](https:://github.com/ARZ3N/Cshell)
+      
 #### 7th Semester Research Project
 - ### **_Fractal Analysis of Electric Streamers_**
   - Motivation: To better understand the dynamics of an electric streamer occurring during dielectric medium breakdown or natural lightning, in order to assess the amount of charge involved and determine ways to minimize damage to the electrical equipment involved.
