@@ -31,6 +31,8 @@
 
       Development Code Source: [imu-arm-motion-capture--GitHub](https://github.com/ARZ3N/imu-arm-motion-capture)
       
+      Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
+      
 #### 8th Semester Course Project: CE006 Operating Systems
 - ### **_Development of a custom Command Line Interface_**
   - Developed a simple BASH-like CLI capable of invoking some custom commands and interact with OS functions.
@@ -89,6 +91,7 @@
 ## Publications
 
 - ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
+Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
 
 ## Ongoing Projects
 
