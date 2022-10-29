@@ -1,7 +1,7 @@
 ## Aniruddha Bhattacharjee
-### Portfolio
 
 ### [<< GitHub >>](https://github.com/ARZ3N)
+
 ## Research Interests
 
 - **Robotics**: Biomimetic and bio-inspired robotics, coordinated control of multi-agent systems, human-machine interaction
