@@ -39,10 +39,10 @@
 #### 8th Semester Course Project: CE006 Operating Systems
 - ### **_Development of a custom Command Line Interface_**
   - Developed a simple BASH-like CLI capable of invoking some custom commands and interact with OS functions.
-  - Hands-on learning of the POSIX "pthreads.h" library and how to create processes andchild-process management.
+  - Hands-on learning of the POSIX "pthreads.h" library and how to create processes and child-process management.
   - Developed a understanding of the shell program structures including input parsing, validation, execution blocks, etc.
 
-      Project Source: [Cshell -- GitHub](https:://github.com/ARZ3N/Cshell)
+      Project Source: [Cshell -- GitHub](https://github.com/ARZ3N/Cshell)
       
 #### 7th Semester Research Project
 - ### **_Fractal Analysis of Electric Streamers_**
