@@ -23,8 +23,9 @@
 | PID Control | Mechatronics | Systems level Programming |
 | Full-State Feedback | Hardware Design | Computational Methods |
 | LQR Optimal Controllers | Bio-inspired methods | High Performance Computing |
-| Root Locus Techniques | 
-| Nonlinear Systems |
+| Root Locus Techniques | Human-Machine Interaction |
+| Nonlinear Systems | Sensor Fusion |
+| State Estimation |
 
 ## Projects
 
