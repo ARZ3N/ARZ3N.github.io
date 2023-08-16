@@ -8,7 +8,6 @@
 - [Student Team Projects](#student-team-projects)
 - [Publications](#publications)
 
-
 ## Areas of Interest
 | Control Systems Design | Robotics | Computing & Embedded |
 |     :--------------:   | :-----:  | :----------------:   |
@@ -22,8 +21,10 @@
 | State Estimation |
 
 ## Projects
+- ### Linear Optimal COntrol of Two Wheel Self-Balancing Robot
+  _Motivation_: The Linear Quadratic Regulator offers a great way to associate weights with states and inputs to optimize system performance around a quadratic cost function. With some idea and hit-and-trail success, weights can be chosen such that desired system performance (overshoot, rise time, settling time) is achieved. But what if a method of weight selection exists which can 
 - ### ** Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
-  - _Motivation_: Usually, to calculate lift coefficient of a given airfoil, software (such as XFOIL) use iterative methods to converge to a value by considering differential equations describing air flow around an object. But quite often, for some airfoil geometries, the software is unable to converge at a 'good' value or does not converge at all.
+  _Motivation_: Usually, to calculate lift coefficient of a given airfoil, software (such as XFOIL) use iterative methods to converge to a value by considering differential equations describing air flow around an object. But quite often, for some airfoil geometries, the software is unable to converge at a 'good' value or does not converge at all.
     Neural Networks being excellent function approximators, an idea was put to test- to make a neural network learn about the math and physics behind airflow around a 2D geometry, ultimately predicting the lift coefficient of the given airfoil.
   - Designed a deep learning model with 2x Convolution layers with RELU activation function, an Input Layer, 1x fully dense layer and an output layer.
   - Airfoil shapes (2D crossectional shape) is considered as 31 pairs of 2D cartesian cordinates forming the boundary of the airfoil. Other details involve flight condition with a viscuous flow Reynold's number of 1.3e7 and subsonic flight conditions of Mach 0.3. Angle fo attack would vary from -2 deg to 10 deg.
