@@ -18,7 +18,8 @@
 
 | Control Systems Design | Robotics | Computing & Embedded |
 |     :--------------:   | :-----:  | :----------------:   |
-| Linear Systems Analysis|Servo Controls| Firmware for robotic|
+|Physics & System Modelling|Motion Control| Firmware for robotic|
+|Linear Systems Analysis | Sensors | Real Time Control |
 
 ## Projects
 
