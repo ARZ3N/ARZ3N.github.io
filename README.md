@@ -2,19 +2,23 @@
 
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
-## Research Interests
+## Contents
+- [Areas of Interest](#areas-of-interest)
+- [Projects](#projects)
+- [Student Team Projects](#student-team-projects)
+- [Publications](#publications)
+- [Ongoing Projects](#ongoing-projects)
+- 
+## Areas of Interest
 
 - **Robotics**: Biomimetic and bio-inspired robotics, coordinated control of multi-agent systems, human-machine interaction
 - **Control**: Computing and hardware for control applications, optimization, Control theory
 - **Embedded**: Real-time Operating Systems (RTOS), Sensor Systems
 - **Aerospace**: Dynamics and Control, flight control systems
 
-## Contents
-
-- [Projects](#projects)
-- [Student Team Projects](#student-team-projects)
-- [Publications](#publications)
-- [Ongoing Projects](#ongoing-projects)
+| Control Systems Design | Robotics | Computing & Embedded |
+|     :--------------:   | :-----:  | :----------------:   |
+| Linear Systems Analysis|Servo Controls| Firmware for robotic|
 
 ## Projects
 
