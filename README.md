@@ -7,8 +7,8 @@
 - [Projects](#projects)
 - [Student Team Projects](#student-team-projects)
 - [Publications](#publications)
-- [Ongoing Projects](#ongoing-projects)
-- 
+
+
 ## Areas of Interest
 | Control Systems Design | Robotics | Computing & Embedded |
 |     :--------------:   | :-----:  | :----------------:   |
@@ -84,38 +84,13 @@
     - Developed Python scripts for different charge distributions and standard charged objects such as Sphere, infinite plane, point charges and custom charge distributions also.
     - Used Python modules such as Numpy and Matplotlib for Finite-element Analysis based calculations and 3D plotting.
 
-## Student Team Projects
-
-#### Nirma University _AUVSI - SUAS_ Team
-- ### **_Design of a Two-wheeled UGV for payload delivery to designated drop zone_**
-  - Objective: One of the objectives of the SUAS competition is to airdrop a UGV (from the primary UAV), to deliver a payload (usually a 250ml bottle), to a designated location which is different from the airdrop point. Thus, a UGV capable of surviving uncertainties and rough terrain had to be developed. The design should also focus on how to avoid the possibility of the UGV toppling while landing, which may render it immobile.
-  - Highlights: 
-    - Worked on developing control firmware for a 2-wheel differential drive rover and developed embedded systems for sensor interface, drive control and motor and servo control.
-    - Designed bio-inspired wheel geometry and traction surface, for the rover to have better grip on rocky/gravel based terrain.
-
-#### Nirma University **_S.A.E. E-BAJA_** Team
-- ### **_Development of Maintenance Probe for Testing & Evaluating the Mechanical Integrity of an Electric All-Terrain Vehicle (ATV) Wiring Harness_**
-  - Objective: The Electric-ATV built for the S.A.E. E-BAJA competition would be subjected to extreme terrain, thereby requiring the low-voltage vehicle control wiring harness, to be tightly secured and monitored for disconnection faults. Thus, the development of an electronic probe, which can connect to a port on the vehicle, in order to assess the mechanical integrity of the wiring harness.
-  - Highlights:
-    - Developed an electronic probe to check proper connection of wires inside vehicle cockpit and identify and locate loose wire faults, with the capability of sending results to a Bluetooth-enabled phone.
-    -	Designed hardware and embedded C++ software (Arduino) for GPIO, UART peripherals and Bluetooth (HC-05) sensor interface.
-    -	Also involved designing the PCB layout, soldering components onto board and testing.
 
 ## Publications
 
 - ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
 Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
 
-## Ongoing Projects
-#### Course Project (ASU): EEE 511 Artificial Neural Computation
-- ### **_Learning Aerodynamics: Estimating Arifoil Lift Coefficients using Neural Netowrks_**
-  - Motivation: Neural Networks are often referred to as “Universal Approximators”, and rightfully so as these constructs have the ability to generate and fit mathematical curves of varying linearity and degree. This project intends to demonstrate how neural networks can be made to learn the mathematical function governing the aerodynamics of an Airfoil, and give estimates related to performance variables such as Lift coefficient. Since the mathematical relation between different shape-defining variables, fluid characteristics and the aerodynamic performance variables is nonlinear and complex, conventional methods employ computational fluid dynamics and Finite-element analysis based methods to accomplish the same thing. This project is far from a replacement for the reliable and true approach to solving this problem, which is the conventional way; but is a great demonstration of the learning capability of neural networks and its potential to become better at solving this problem, in the future.
-  - Software / Languages / tools being used currently:
- C, Python, Tensorflow, Bash scripting, XFoil
 
-
-- ### **Using Python for Hardware-In-Loop (HIL) Simulations of Embedded Control Systems**
-Learning Automation and simulation workflows to design Python System modelling library for HIL simulations that can work with embedded targets.
 
 
 
