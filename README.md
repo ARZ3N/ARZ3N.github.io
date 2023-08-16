@@ -10,12 +10,6 @@
 - [Ongoing Projects](#ongoing-projects)
 - 
 ## Areas of Interest
-
-- **Robotics**: Biomimetic and bio-inspired robotics, coordinated control of multi-agent systems, human-machine interaction
-- **Control**: Computing and hardware for control applications, optimization, Control theory
-- **Embedded**: Real-time Operating Systems (RTOS), Sensor Systems
-- **Aerospace**: Dynamics and Control, flight control systems
-
 | Control Systems Design | Robotics | Computing & Embedded |
 |     :--------------:   | :-----:  | :----------------:   |
 |Physics & System Modelling|Motion Control| Microcontroller Firmware|
