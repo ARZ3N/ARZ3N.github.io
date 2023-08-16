@@ -18,8 +18,13 @@
 
 | Control Systems Design | Robotics | Computing & Embedded |
 |     :--------------:   | :-----:  | :----------------:   |
-|Physics & System Modelling|Motion Control| Firmware for robotic|
-|Linear Systems Analysis | Sensors | Real Time Control |
+|Physics & System Modelling|Motion Control| Microcontroller Firmware|
+|Linear Systems Analysis | Sensors | Real Time Operating Systems |
+| PID Control | Mechatronics | Systems level Programming |
+| Full-State Feedback | Hardware Design | Computational Methods |
+| LQR Optimal Controllers | Bio-inspired methods | High Performance Computing |
+| Root Locus Techniques | 
+| Nonlinear Systems |
 
 ## Projects
 
