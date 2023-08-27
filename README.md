@@ -5,22 +5,16 @@
 ## Contents
 - [Areas of Interest](#areas-of-interest)
 - [Projects](#projects)
-- [Student Team Projects](#student-team-projects)
 - [Publications](#publications)
+- [Student Team Achievements](#student-team-Achievements)
 
 ## Areas of Interest
-| Control Systems Design | Robotics | Computing & Embedded |
-|     :--------------:   | :-----:  | :----------------:   |
-|Physics & System Modelling|Motion Control| Microcontroller Firmware|
-|Linear Systems Analysis | Sensors | Real Time Operating Systems |
-| PID Control | Mechatronics | Systems level Programming |
-| Full-State Feedback | Hardware Design | Computational Methods |
-| LQR Optimal Controllers | Bio-inspired methods | High Performance Computing |
-| Root Locus Techniques | Human-Machine Interaction |
-| Nonlinear Systems | Sensor Fusion |
-| State Estimation |
-
+Control Systems Design, Sensors & Actuators, Robotic Locomotion & Control
+Systems Level Programming, Embedded Systems, 
+Nonlinear Systems, Computational Sciences
+- 
 ## Projects
+- ### RTOS integrated Human Arm
 - ### Linear Optimal COntrol of Two Wheel Self-Balancing Robot
   _Motivation_: The Linear Quadratic Regulator offers a great way to associate weights with states and inputs to optimize system performance around a quadratic cost function. With some idea and hit-and-trail success, weights can be chosen such that desired system performance (overshoot, rise time, settling time) is achieved. But what if a method of weight selection exists which can 
 - ### ** Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
@@ -91,17 +85,10 @@
 - ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
 Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
 
+## Student Team Achievements
+- ### National Winners, SAE Electric BAJA Championship, INDIA - 2019
 
 
-
-
-
-
-
-
-
-
- 
 ![urban_sprawl_dusk](/assets/media/giphy_dusk_japan_city.gif)
 
 ##### Thank You! ^
