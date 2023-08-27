@@ -13,6 +13,7 @@
 ### Systems Level Programming, Embedded Systems
 ### Nonlinear Systems, Computational Sciences
 
+
 ## Projects
 - ### RTOS integrated Human Arm Movement Tracking with Haptic Feedback
   _motivation_: To integrate extended sensory feedback for an existing motion tracking system, to built it as a human-machine interface technology.
