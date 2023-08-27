@@ -9,9 +9,9 @@
 - [Student Team Achievements](#student-team-Achievements)
 
 ## Areas of Interest
-Control Systems Design, Sensors & Actuators, Robotic Locomotion & Control
-Systems Level Programming, Embedded Systems
-Nonlinear Systems, Computational Sciences
+### Control Systems Design, Sensors & Actuators, Robotic Locomotion & Control
+### Systems Level Programming, Embedded Systems
+### Nonlinear Systems, Computational Sciences
 - 
 ## Projects
 - ### RTOS integrated Human Arm Movement Tracking with Haptic Feedback
