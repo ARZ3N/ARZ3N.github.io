@@ -83,7 +83,6 @@
     - Developed Python scripts for different charge distributions and standard charged objects such as Sphere, infinite plane, point charges and custom charge distributions also.
     - Used Python modules such as Numpy and Matplotlib for Finite-element Analysis based calculations and 3D plotting.
 
-
 ## Publications
 
 - ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
@@ -92,7 +91,11 @@ Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63]
 ## Student Team Achievements
 - ### National Winners, SAE Electric BAJA Championship, INDIA - 2019
 
+![EBAJA_Vehicle1](/assests/media/SAE_BAJA_2019)
 
-![urban_sprawl_dusk](/assets/media/giphy_dusk_japan_city.gif)
+
 
 ##### Thank You! ^
+![urban_sprawl_dusk](/assets/media/giphy_dusk_japan_city.gif)
+
+
