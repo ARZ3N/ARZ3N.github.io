@@ -1,24 +1,21 @@
 ## Aniruddha Bhattacharjee
-
+Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I completed my Bachelor's degree in Electrical Engineering from Nirma University, Ahmedabad in May 2021. During my graduate studies I primarily focussed my studies in Computer Engineering, Control Systems and Signals. I like to work with embedded systems and build computing devices for Robotic platforms or applications involving Digital Signal Processing.
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
+## Research Activity
+I am currently part of the DSP Technology Development, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
 ## Contents
 - [Areas of Interest](#areas-of-interest)
 - [Projects](#projects)
 - [Publications](#publications)
 - [Student Team Achievements](#student-team-Achievements)
 
-## Areas of Interest
-### Control Systems Design, Sensors & Actuators, Robotic Locomotion & Control
-### Systems Level Programming, Embedded Systems
-### Nonlinear Systems, Computational Sciences
-
 
 ## Projects
 - ### RTOS integrated Human Arm Movement Tracking with Haptic Feedback
   _motivation_: To integrate extended sensory feedback for an existing motion tracking system, to built it as a human-machine interface technology.
   
-- ### Linear Optimal COntrol of Two Wheel Self-Balancing Robot
+- ### Linear Optimal Control of Two Wheel Self-Balancing Robot
   _Motivation_: The Linear Quadratic Regulator offers a great way to associate weights with states and inputs to optimize system performance around a quadratic cost function. With some idea and hit-and-trail success, weights can be chosen such that desired system performance (overshoot, rise time, settling time) is achieved. But what if a method of weight selection exists which can provide a formal method to achieving this?
   
 - ### Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
