@@ -44,7 +44,7 @@ I am currently part of the **DSP Technology Development**, at ASU's School of Ea
     - Develop necessary mounts and embedded electronics to place and interface sensors on the arm.
     - Develop embedded firmware for Arm cortex-m4 (MK66FX1M0) device for sensor interface and communication. Develop a python based 3D render of the human arm for visualization.
 
-     ![Concept1](/assets/media/concept1.png)  ![layout1](/assets/media/layout1.png)
+     ![Concept1](/assets/media/IMU_ARM/concept1.png)  ![layout1](/assets/media/IMU_ARM/layout1.png)
 
       Development Code Source: [imu-arm-motion-capture--GitHub](https://github.com/ARZ3N/imu-arm-motion-capture)
       
