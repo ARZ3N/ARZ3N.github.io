@@ -3,20 +3,24 @@ Welcome to my Github page! I recently graduated with a Master's degree in Electr
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
 ## Research Activity
-I am currently part of the DSP Technology Development, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
+I am currently part of the **DSP Technology Development**, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
+### Current Lab activites:
+#### High Speed Data Readout Interface using Xilinx Zynq-7000 SoC via Gigabit Ethernet
+#### Implementing Fast Memory read/write access for Polyphase Filter Bank based DSP algorithm.
+
 ## Contents
-- [Areas of Interest](#areas-of-interest)
 - [Projects](#projects)
 - [Publications](#publications)
 - [Student Team Achievements](#student-team-Achievements)
 
 
 ## Projects
-- ### RTOS integrated Human Arm Movement Tracking with Haptic Feedback
-  _motivation_: To integrate extended sensory feedback for an existing motion tracking system, to built it as a human-machine interface technology.
+
   
 - ### Linear Optimal Control of Two Wheel Self-Balancing Robot
-  _Motivation_: The Linear Quadratic Regulator offers a great way to associate weights with states and inputs to optimize system performance around a quadratic cost function. With some idea and hit-and-trail success, weights can be chosen such that desired system performance (overshoot, rise time, settling time) is achieved. But what if a method of weight selection exists which can provide a formal method to achieving this?
+  _Motivation_: The Linear Quadratic Regulator offers a great way to associate weights with states and inputs to optimize system performance around a quadratic cost function. With some idea and hit-and-trail success, weights can be chosen such that desired system performance (overshoot, rise time, settling time) is achieved.\
+  
+  _Outcome_: Rather than selecting weights based on traditional methods of trial-error or model specific behavior, a geometric conic-section inspired weight selection method is proposed which, based on certain characteristics of the model, considers pair of weights (state-variables) and iterates these values on a conic-section (ellipse, circle, etc) to settle on a weight which satisfies design goals.
   
 - ### Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
   _Motivation_: Usually, to calculate lift coefficient of a given airfoil, software (such as XFOIL) use iterative methods to converge to a value by considering differential equations describing air flow around an object. But quite often, for some airfoil geometries, the software is unable to converge at a 'good' value or does not converge at all.
@@ -27,7 +31,7 @@ I am currently part of the DSP Technology Development, at ASU's School of Earth 
   - Used XFOIL solver for gathering lift coefficient data for available. Created C and Powershell scripts to parse through files and check convergence failure in data files associated with all 1621 airfoil shapes. XFOIL would often fail to converge for certain airfoil shapes with the given flight conditions.
   - Trained the neural net for 1600 epochs. Deep learning model built and trained with Tensorflow-Python.
   - Achieved lift coefficient estimation accuracy of 98.63% and the neural network is also able to estimate lift coefficients of arbitrary airfoil shapes (completely new shapes).
-
+![arfl_mdl_inp](/assets/media/Xfoil_4415_panels.PNG) ![escnn](/assets/media/escnn_model.PNG)  ![res_grph](/assets/media/result_plot_example.PNG)
 - ### **_Human Arm Motion Capture Using IMU Sensors_**
   - _Motivation_: To develop a computationally cheaper alternative to computer vision based human body motion tracking technology, by utilising IMU sensors. Develop something which can also be used as a means to further advancements in prosthesis control and human-computer interaction.
   - Methodology:
