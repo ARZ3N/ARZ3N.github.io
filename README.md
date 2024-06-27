@@ -31,7 +31,8 @@ I am currently part of the **DSP Technology Development**, at ASU's School of Ea
   - Used XFOIL solver for gathering lift coefficient data for available. Created C and Powershell scripts to parse through files and check convergence failure in data files associated with all 1621 airfoil shapes. XFOIL would often fail to converge for certain airfoil shapes with the given flight conditions.
   - Trained the neural net for 1600 epochs. Deep learning model built and trained with Tensorflow-Python.
   - Achieved lift coefficient estimation accuracy of 98.63% and the neural network is also able to estimate lift coefficients of arbitrary airfoil shapes (completely new shapes).
-![arfl_mdl_inp](/assets/media/Xfoil_4415_panels.PNG) ![escnn](/assets/media/escnn_model.PNG)  ![res_grph](/assets/media/result_plot_example.PNG)
+![prj_pic](/assets/media/ANN/ann_summary.PNG)
+
 - ### **_Human Arm Motion Capture Using IMU Sensors_**
   - _Motivation_: To develop a computationally cheaper alternative to computer vision based human body motion tracking technology, by utilising IMU sensors. Develop something which can also be used as a means to further advancements in prosthesis control and human-computer interaction.
   - Methodology:
