@@ -9,12 +9,12 @@ I am currently part of the **DSP Technology Development**, at ASU's School of Ea
 #### Implementing Fast Memory read/write access for Polyphase Filter Bank based DSP algorithm.
 
 ## Contents
-- [Projects](#projects)
+- [Project Highlights](#projects-highlights)
 - [Publications](#publications)
 - [Student Team Achievements](#student-team-Achievements)
 
 
-## Projects
+## Projects Highlights
   
 - ### Linear Optimal Control of Two Wheel Self-Balancing Robot
   _Motivation_: The Linear Quadratic Regulator offers a great way to associate weights with states and inputs to optimize system performance around a quadratic cost function. With some idea and hit-and-trail success, weights can be chosen such that desired system performance (overshoot, rise time, settling time) is achieved.\
