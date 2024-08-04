@@ -15,12 +15,6 @@ I am currently part of the **DSP Technology Development**, at ASU's School of Ea
 
 
 ## Projects Highlights
-  
-- ### Linear Optimal Control of Two Wheel Self-Balancing Robot
-  _Motivation_: The Linear Quadratic Regulator offers a great way to associate weights with states and inputs to optimize system performance around a quadratic cost function. With some idea and hit-and-trail success, weights can be chosen such that desired system performance (overshoot, rise time, settling time) is achieved.\
-  
-  _Outcome_: Rather than selecting weights based on traditional methods of trial-error or model specific behavior, a geometric conic-section inspired weight selection method is proposed which, based on certain characteristics of the model, considers pair of weights (state-variables) and iterates these values on a conic-section (ellipse, circle, etc) to settle on a weight which satisfies design goals.
-  
 - ### Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
   _Motivation_: Usually, to calculate lift coefficient of a given airfoil, software (such as XFOIL) use iterative methods to converge to a value by considering differential equations describing air flow around an object. But quite often, for some airfoil geometries, the software is unable to converge at a 'good' value or does not converge at all.
     Neural Networks being excellent function approximators, an idea was put to test- to make a neural network learn about the math and physics behind airflow around a 2D geometry, ultimately predicting the lift coefficient of the given airfoil.
