@@ -5,7 +5,7 @@ Welcome to my Github page! I recently graduated with a Master's degree in Electr
 ## Research Activity
 I am currently part of the **DSP Technology Development**, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
 ### Current Lab activites:
-#### High Speed Data Readout Interface using Xilinx Zynq-7000 SoC via Gigabit Ethernet
+#### High Speed Data Readout Interface using Xilinx Zynq-7000 SoC using Gigabit Ethernet
 #### Implementing Fast Memory read/write access for Polyphase Filter Bank based DSP algorithm.
 
 ## Contents
