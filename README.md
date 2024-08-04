@@ -1,5 +1,5 @@
 ## Aniruddha Bhattacharjee
-Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I completed my Bachelor's degree in Electrical Engineering from Nirma University, Ahmedabad in May 2021. During my graduate studies I primarily focussed my studies in Computer Engineering, Control Systems and Signals. I like to work with embedded systems and build computing devices for Robotic platforms or applications involving Digital Signal Processing.
+Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I completed my Bachelor's degree in Electrical Engineering from Nirma University, Ahmedabad in May 2021. During my graduate degree I primarily focussed on learning about Computer Engineering, Control Theory and Digital Signal Processing. I like to work with embedded systems and build computing devices for Robotic platforms or applications involving Control and DSP.
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
 ## Research Activity
@@ -15,7 +15,6 @@ I am currently part of the **DSP Technology Development**, at ASU's School of Ea
 
 
 ## Projects
-
   
 - ### Linear Optimal Control of Two Wheel Self-Balancing Robot
   _Motivation_: The Linear Quadratic Regulator offers a great way to associate weights with states and inputs to optimize system performance around a quadratic cost function. With some idea and hit-and-trail success, weights can be chosen such that desired system performance (overshoot, rise time, settling time) is achieved.\
