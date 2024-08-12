@@ -1,5 +1,5 @@
 ## Aniruddha Bhattacharjee
-Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I completed my Bachelor's degree in Electrical Engineering from Nirma University, Ahmedabad in May 2021. During my graduate degree I primarily focussed on learning about Computer Engineering, Control Theory and Digital Signal Processing. I like to work with embedded systems and build computing devices for Robotic platforms or applications involving Control and DSP.
+Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I completed my Bachelor's degree in Electrical Engineering from Nirma University, Ahmedabad in May 2021. I am interested in Computer Engineering, Controls and Digital Signal Processing. I like to work with embedded systems and build computing devices for Robotic platforms or applications involving Control and DSP.
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
 ## Research Activity
