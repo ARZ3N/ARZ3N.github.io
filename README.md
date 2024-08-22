@@ -85,7 +85,7 @@ Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63]
 
 ## Student Team Achievements
 - ### National Winners, SAE Electric BAJA Championship, INDIA - 2019
+<img src="./assets/media/SAE_BAJA_2019.png" width="350" height="500">
 
-![SAE_BAJA_ATV_2019](/assets/media/SAE_BAJA_2019.png)
 ##### Thank You!
 
