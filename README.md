@@ -3,8 +3,8 @@ Welcome to my Github page! I recently graduated with a Master's degree in Electr
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
 ## Research Activity
-I am currently part of the **DSP Technology Development**, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
-### Current Lab activites:
+As a graduate student, I was part of the **DSP Technology Development Lab**, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
+### My work in the lab involved:
 #### High Speed Data Readout Interface using Xilinx Zynq-7000 SoC using Gigabit Ethernet
 #### Implementing Fast Memory read/write access for Polyphase Filter Bank based DSP algorithm.
 
@@ -43,41 +43,14 @@ I am currently part of the **DSP Technology Development**, at ASU's School of Ea
       
       Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
       
-#### 8th Semester Course Project: CE006 Operating Systems
 - ### **_Development of a custom Command Line Interface_**
-  - _Motivation_: To understandthe internal working of a command-line interface, with primary emphasis on OS-based shells, like BASH, and how these make use of processes to execute commands.
+  - _Motivation_: To understand the internal working of a command-line interface, with primary emphasis on OS-based shells, like BASH, and how these make use of processes to execute commands.
   - Developed a simple BASH-like CLI capable of invoking some custom commands and interact with OS functions.
   - Learned to use the POSIX "pthreads.h" library and how to create processes and child-process management.
   - Developed understanding of the shell program structures including input parsing, validation, execution blocks, etc.
 
-      Project Source: [SeaShell -- GitHub](https://github.com/ARZ3N/Cshell)
+      Project Source: [SeaShell -- GitHub](https://github.com/ARZ3N/SeaShell)
       
-#### 7th Semester Research Project
-- ### **_Fractal Analysis of Electric Streamers_**
-  - Motivation: To investigate the dynamics of an electric streamer occurring during dielectric medium breakdown or natural lightning, in order to assess the amount of charge involved and determine ways to minimize damage to the electrical equipment involved. Owing to its highly branched and random formations, there must be some chaotic interplay of different factors which lead to such erratic electromagnetic behaviour.
-  - Summary:
-    - Determination factors affecting streamer pattern geometry in a high voltage electric discharge experimental setup with a liquid dielectric medium. 
-    - Calculation of fractal dimensions using box-counting method, for different voltage magnitudes and polarity.
-    - Worked on developing a mathematical model of the electric streamers, assuming the system to be nonlinear due to the coupling of electromagnetic forces due to charge build up and travelling charged particles.
-
-
-#### UG Mini Project
-- ### **_Flight Control System for a Quadrotor Drone_**
-  - Motivation: To develop an intuitive understanding of the mathematics and programming involved in designing control systems for a quadrotor drone.
-  - Highlights:
-    - Designed a Roll-Pitch controller for an X-type multi-rotor drone with PID feedback control using MATLAB/Simulink model based on free-body diagram derived system dynamics.
-    - Programmed an Arm-Cortex-m4 based MCU (STM32F411VET6) to implement moving data filters, sensor fusion and control law implementation along with Timer control for BLDC motor ESC drive signal and UART peripherals for data transfer to host & SPI SD card data logging.
-    - Implemented a quaternion based orientation tracking algorithm (after facing problems using Euler angle based method).
-    - Attempted a Hardware-In-Loop (HIL) simulation testing method using Python scripts to run C-code and plot data using python modules- Matplotlib, Numpy.
-
-
-#### 4th Semester Seminar
-- ### **_Python for Electrical Engineering: 3D visualization of electric and magnetic fields due to charged objects or current elements_**
-  - Motivation: To develop interactive 3D plots of electric & magnetic fields due to various geometries of charges objects of current elements to aid learning in course- EE4xx Engineering Electromagnetics.
-  - Highlights:
-    - Developed Python scripts for different charge distributions and standard charged objects such as Sphere, infinite plane, point charges and custom charge distributions also.
-    - Used Python modules such as Numpy and Matplotlib for Finite-element Analysis based calculations and 3D plotting.
-
 ## Publications
 
 - ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
