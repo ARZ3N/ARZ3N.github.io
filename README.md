@@ -1,4 +1,3 @@
-## Aniruddha Bhattacharjee
 Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I am interested in Computer Engineering, Controls and Digital Signal Processing. I like to work at the intersection of hardware and software systems, and develop computing systems for DSP, Control, sensing and robotic systems.
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
@@ -58,8 +57,9 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
 Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
 
 ## Student Team Achievements
-- ### National Winners, SAE Electric BAJA Championship, INDIA - 2019
-<img src="./assets/media/SAE_BAJA_2019.png" width="350" height="500">
+- ### National Winners, SAE BAJA - 2019, INDIA
+Nirma University Student Team
+<img src="./assets/media/SAE_BAJA_2019.png" width="335" height="440">
 
 ##### Thank You!
 
