@@ -25,6 +25,7 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
   - Trained the neural net for 1600 epochs. Deep learning model built and trained with Tensorflow-Python.
   - Achieved lift coefficient estimation accuracy of 98.63% and the neural network is also able to estimate lift coefficients of arbitrary airfoil shapes (completely new shapes).
 ![prj_pic](/assets/media/ANN/ann_summary.PNG)
+Project Repository: [airfoil-nn-GitHub](https://github.com/ARZ3N/Airfoil_NN)
 
 - ### **_Human Arm Motion Capture Using IMU Sensors_**
   - _Motivation_: To develop a computationally cheaper alternative to computer vision based human body motion tracking technology, by utilising IMU sensors. Develop something which can also be used as a means to further advancements in prosthesis control and human-computer interaction.
