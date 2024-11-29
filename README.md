@@ -15,7 +15,7 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
 - [Student Team Achievements](#student-team-Achievements)
 
 
-## Projects Highlights
+## Some of My Projects
 - ### Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
   _Motivation_: Usually, to calculate lift coefficient of a given airfoil, software (such as XFOIL) use iterative methods to converge to a value by considering differential equations describing air flow around an object. But quite often, for some airfoil geometries, the software is unable to converge at a 'good' value or does not converge at all.
     Neural Networks being excellent function approximators, an idea was put to test- to make a neural network learn about the math and physics behind airflow around a 2D geometry, ultimately predicting the lift coefficient of the given airfoil.
