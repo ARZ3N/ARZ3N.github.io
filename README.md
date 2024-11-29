@@ -1,5 +1,5 @@
 ## Aniruddha Bhattacharjee
-Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I completed my Bachelor's degree in Electrical Engineering from Nirma University, Ahmedabad in May 2021. I am interested in Computer Engineering, Controls and Digital Signal Processing. I like to work with embedded systems and build FPGA+Processor based computing platforms and develop systems level code for Robotic platforms or applications involving Control and DSP.
+Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I am interested in Computer Engineering, Controls and Digital Signal Processing. I like to work at the intersection of hardware and software systems, and develop computing systems for DSP, Control, sensing and robotic systems.
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
 ## Research Activity
@@ -7,6 +7,7 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
 ### My work in the lab involved:
 #### High Speed Data Readout Interface using Xilinx Zynq-7000 SoC using Gigabit Ethernet
 #### Implementing Fast Memory read/write access for Polyphase Filter Bank based DSP algorithm.
+<img src="./assets/media/DSP_HW/fpga_eth_trx1.jpg" width="350" height="250">
 
 ## Contents
 - [Project Highlights](#projects-highlights)
