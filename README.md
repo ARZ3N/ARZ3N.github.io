@@ -1,18 +1,18 @@
 Welcome to my Github page! I recently graduated with a Master's degree in Electrical Engineering from Arizona State University, in May 2024. I am interested in Computer Engineering, Controls and Digital Signal Processing. I like to work at the intersection of hardware and software systems, and develop computing systems for DSP, Control, sensing and robotic systems.
 ### [<< GitHub >>](https://github.com/ARZ3N)
 
-## Research Activity
+## Contents
+- [Research Activities](#research-activities)
+- [Some of My Projects](#some-of-my-projects)
+- [Publications](#publications)
+- [SAE Student Automobile Club](#student-team-Achievements)
+
+## Research Activities
 As a graduate student, I was part of the **DSP Technology Development Lab**, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
 ### My work in the lab involved:
 #### High Speed Data Readout Interface using Xilinx Zynq-7000 SoC using Gigabit Ethernet
 #### Implementing Fast Memory read/write access for Polyphase Filter Bank based DSP algorithm.
 <img src="./assets/media/DSP_HW/fpga_eth_trx1.jpg" width="350" height="250">
-
-## Contents
-- [Project Highlights](#projects-highlights)
-- [Publications](#publications)
-- [Student Team Achievements](#student-team-Achievements)
-
 
 ## Some of My Projects
 - ### Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
@@ -58,7 +58,7 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
 - ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
 Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
 
-## Student Team Achievements
+## SAE Student Automobile Club
 - ### National Winners, SAE BAJA - 2019, INDIA
 Nirma University Student Team
 <img src="./assets/media/SAE_BAJA_2019.png" width="335" height="440">
