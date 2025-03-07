@@ -5,7 +5,7 @@ Welcome to my Github page! I recently graduated with a Master's degree in Electr
 - [Research Activities](#research-activities)
 - [Some of My Projects](#some-of-my-projects)
 - [Publications](#publications)
-- [SAE Student Automobile Club](#student-team-Achievements)
+- [SAE Student Automobile Club](#sae-student-automobile-club)
 
 ## Research Activities
 As a graduate student, I was part of the **DSP Technology Development Lab**, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
