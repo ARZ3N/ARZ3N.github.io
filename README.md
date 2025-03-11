@@ -15,6 +15,11 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
 <img src="./assets/media/DSP_HW/fpga_eth_trx1.jpg" width="350" height="250">
 
 ## Some of My Projects
+- ### Linear Optimal Control of Two-Wheel Self Balancing Robot
+  ![project_sum](/assets/media/twsbr_Control/twsbr_project.JPG)
+  Developed a decoupled Linear State Space system model for a Two-Wheel Self-Balancing Robot's dynamics in MATLAB. Then, designed a full-state feedback LQR controller with a Kalman Filter Observer, with the algorithm and simulation done in MATLAB. 
+  Also explored an algorithm to generate the Q and R matrices based on the idea that certain pair of states variables would inherently behave inversely to the other state. Conic function based quadratic equations were used to map the Q matrix elements associated with respective state variables. This led to a easier, and more intuitive method for constructing LQR weight matrices, while thinking in terms of geometry rather than the usual trial and error. This was successful in reducing settling time by 45% and overshoot by 36%. Worked on designing a virtual test simulation of the robot using the Mujoco simulator.
+
 - ### Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
   _Motivation_: Usually, to calculate lift coefficient of a given airfoil, software (such as XFOIL) use iterative methods to converge to a value by considering differential equations describing air flow around an object. But quite often, for some airfoil geometries, the software is unable to converge at a 'good' value or does not converge at all.
     Neural Networks being excellent function approximators, an idea was put to test- to make a neural network learn about the math and physics behind airflow around a 2D geometry, ultimately predicting the lift coefficient of the given airfoil.
