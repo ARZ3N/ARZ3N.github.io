@@ -4,8 +4,8 @@ Welcome to my Github page! I recently graduated with a Master's degree in Electr
 ## Contents
 - [Research Activities](#research-activities)
 - [Some of My Projects](#some-of-my-projects)
-- [Publications](#publications)
 - [SAE Student Automobile Club](#sae-student-automobile-club)
+- [Publications](#publications)
 
 ## Research Activities
 As a graduate student, I was part of the **DSP Technology Development Lab**, at ASU's School of Earth & Space Exploration, where I contribute to projects involving FPGA based RADAR spectroscopy instruments for Earth and Space based remote sensing. We write VHDL/Verilog code to implement various DSP algorithms on FPGAs and also develop embedded firmware for programming ARM devices for Data readout and communication. 
@@ -35,7 +35,7 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
 
 - ### **_Human Arm Motion Capture Using IMU Sensors_**
   - _Motivation_: To develop a computationally cheaper alternative to computer vision based human body motion tracking technology, by utilising IMU sensors. Develop something which can also be used as a means to further advancements in prosthesis control and human-computer interaction.
-  - Methodology:
+  - Different things that I worked on:
     - Sensor interface and Signal processing:
      + Sensor used: Invensense MPU 9250 Accelerometer + Gyroscope + Magnetometer
      + Implemented FIR/Moving Average Filter for removing noise due to sudden shifts in motion over a short period of time.
@@ -58,15 +58,23 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
 
       Project Source: [SeaShell -- GitHub](https://github.com/ARZ3N/SeaShell)
       
+## SAE Student Automobile Club
+- ### National Winners, SAE BAJA - 2019, INDIA
+Part of Nirma University's Student Automobile which participates in competitions like SAE BAJA and Formula SAE.
+I designed electronic components and developed embedded C, C++ code for sensing and control on board our team's Electric All-Terrain Vehicle. Some other things that I explored while in the team-
+- Designed electrical systems and embedded electronics for EV cockpit instrumentation, and evaluated systems for failure analysis and root cause troubleshooting, improving overall robustness.
+- Learned about Li-ion Cell management and how a Battery Management systems worked. Explored different algorithms and techniques to estimate State of Charge of a battery pack.
+
+![sae_baja_2019](/assets/media/SAE_EBAJA/relays_batt_ecu.PNG)
+- Developed a BLE enabled electronic probe for fast checking of lose wire connections in driver cockpit.
+
+
+
+<img src="./assets/media/SAE_EBAJA/SAE_BAJA_2019.png" width="335" height="440">
+
 ## Publications
 
 - ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
 Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
-
-## SAE Student Automobile Club
-- ### National Winners, SAE BAJA - 2019, INDIA
-Nirma University Student Team
-<img src="./assets/media/SAE_BAJA_2019.png" width="335" height="440">
-
 ##### Thank You!
 
