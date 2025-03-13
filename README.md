@@ -21,6 +21,8 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
   Also explored an algorithm to generate the Q and R matrices based on the idea that certain pair of states variables would inherently behave inversely to the other state. Conic function based quadratic equations were used to map the Q matrix elements associated with respective state variables. This led to a easier, and more intuitive method for constructing LQR weight matrices, while thinking in terms of geometry rather than the usual trial and error. This was successful in reducing settling time by 45% and overshoot by 36%. Worked on designing a virtual test simulation of the robot using the Mujoco simulator.
 
 - ### Estimating Airfoil Aerodynamic Lift Coefficient Using Neural Networks
+  ![prj_pic](/assets/media/ANN/ann_summary.PNG)
+
   _Motivation_: Usually, to calculate lift coefficient of a given airfoil, software (such as XFOIL) use iterative methods to converge to a value by considering differential equations describing air flow around an object. But quite often, for some airfoil geometries, the software is unable to converge at a 'good' value or does not converge at all.
     Neural Networks being excellent function approximators, an idea was put to test- to make a neural network learn about the math and physics behind airflow around a 2D geometry, ultimately predicting the lift coefficient of the given airfoil.
   - Designed a deep learning model with 2x Convolution layers with RELU activation function, an Input Layer, 1x fully dense layer and an output layer.
@@ -29,11 +31,12 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
   - Used XFOIL solver for gathering lift coefficient data for available. Created C and Powershell scripts to parse through files and check convergence failure in data files associated with all 1621 airfoil shapes. XFOIL would often fail to converge for certain airfoil shapes with the given flight conditions.
   - Trained the neural net for 1600 epochs. Deep learning model built and trained with Tensorflow-Python.
   - Achieved lift coefficient estimation accuracy of 98.63% and the neural network is also able to estimate lift coefficients of arbitrary airfoil shapes (completely new shapes).
-![prj_pic](/assets/media/ANN/ann_summary.PNG)
-  Project Repository: [airfoil-nn-GitHub](https://github.com/ARZ3N/Airfoil_NN)
-  
+
+  **Project Repository**: [airfoil-nn-GitHub](https://github.com/ARZ3N/Airfoil_NN)
 
 - ### **_Human Arm Motion Capture Using IMU Sensors_**
+  ![poster](/assets/media/IMU_ARM/IMU_Project_poster.PNG)
+
   - _Motivation_: To develop a computationally cheaper alternative to computer vision based human body motion tracking technology, by utilising IMU sensors. Develop something which can also be used as a means to further advancements in prosthesis control and human-computer interaction.
   - Different things that I worked on:
     - Sensor interface and Signal processing:
@@ -44,11 +47,11 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
     - Develop necessary mounts and embedded electronics to place and interface sensors on the arm.
     - Develop embedded firmware for Arm cortex-m4 (MK66FX1M0) device for sensor interface and communication. Develop a python based 3D render of the human arm for visualization.
 
-     ![poster](/assets/media/IMU_ARM/IMU_Project_poster.PNG)
-
-      Development Source Code: [imu-arm-motion-capture--GitHub](https://github.com/ARZ3N/imu-arm-motion-capture)
+      ![mcu_imu](/assets/media/IMU_ARM/setup_DSC_2658.JPG)
+     
+      **Development Source Code**: [imu-arm-motion-capture--GitHub](https://github.com/ARZ3N/imu-arm-motion-capture)
       
-      Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
+      **Conference Publication Link**: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
       
 - ### **_Development of a custom Command Line Interface_**
   - _Motivation_: To understand the internal working of a command-line interface, with primary emphasis on OS-based shells, like BASH, and how these make use of processes to execute commands.
@@ -56,7 +59,7 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
   - Learned to use the POSIX "pthreads.h" library and how to create processes and child-process management.
   - Developed understanding of the shell program structures including input parsing, validation, execution blocks, etc.
 
-      Project Source: [SeaShell -- GitHub](https://github.com/ARZ3N/SeaShell)
+  **Project Source**: [SeaShell -- GitHub](https://github.com/ARZ3N/SeaShell)
       
 ## SAE Student Automobile Club
 - ### National Winners, SAE BAJA - 2019, INDIA
@@ -79,7 +82,7 @@ I designed electronic components and developed embedded C, C++ code for sensing 
 
 ## Publications
 
-- ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Ennery and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
+- ### Bhattacharjee, A., Bhatt, C. (2021). Human Arm Motion Capture Using IMU Sensors. 1st International Conference on Smart Energy and Advancements in Power Technology (Track- Biomedical Instrumentation and Applied Sciences), National Institute of Technology, Jamshedpur. Springer Lecture Notes in Electrical Engineering.
 Conference Publication Link: [DOI: https://doi.org/10.1007/978-981-19-4975-3_63](https://doi.org/10.1007/978-981-19-4975-3_63)
 
 ##### Thank You!
