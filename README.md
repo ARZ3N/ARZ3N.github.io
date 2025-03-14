@@ -65,6 +65,7 @@ As a graduate student, I was part of the **DSP Technology Development Lab**, at 
 - ### National Winners, SAE BAJA - 2019, INDIA
 Part of Nirma University's Student Automobile which participates in competitions like SAE BAJA and Formula SAE.
 <p align="center">
+<img src="./assets/media/SAE_EBAJA/vehicle_setup1.jpg" width="400" height="540"> 
 <img src="./assets/media/SAE_EBAJA/SAE_BAJA_2019.png" width="400" height="540">
 </p>
 I designed electronic components and developed embedded C, C++ code for sensing and control on board our team's Electric All-Terrain Vehicle. Some other things that I explored while in the team:
